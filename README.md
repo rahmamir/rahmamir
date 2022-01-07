@@ -33,9 +33,8 @@
 <b>Problem to Solve:</b> Helping small businesses draw in more customers through an online shop, while ensuring it is cheap and accessible to non-tecngical people. <br />
 <b>Solution:</b> A custom online store designer, which then saves the template into an online mobile Hub, to be viewable by customers. <br />
 
-Video Demonstration: <br />
-
 <table>
+    <tr> <th> Video Demonstration: </th> </tr>
     <tr> <th> Business Owners Customize Store Template: </th> </tr>
     <tr> <th> <img align="left" alt="V1" width="300px" height="200px" src="https://github.com/rahmamir/rahmamir/blob/master/customize_template.PNG" />  </th> </tr>
     <tr> <th> Business Owners Edit Product Data: </th> </tr>
@@ -46,29 +45,5 @@ Video Demonstration: <br />
     <tr> <th> <img align="left" alt="V4" width="300px" height="200px" src="https://github.com/rahmamir/rahmamir/blob/master/view_statistics.PNG" />  </th> </tr>
 
 </table>
-
-- Business Owners Customize Store Template: <br />
-<img align="left" alt="V1" width="300px" height="200px" src="https://github.com/rahmamir/rahmamir/blob/master/customize_template.PNG" /> 
-<br />
-<br />
-<br />
-
-- Business Owners Edit Product Data: <br />
-<img align="left" alt="V2" width="300px" height="200px" src="https://github.com/rahmamir/rahmamir/blob/master/edit_products.PNG" /> 
-<br />
-<br />
-<br />
-
-- Regular Customers view store on Mobile Hub: <br />
-<img align="left" alt="V3" width="150px" height="200px" src="https://github.com/rahmamir/rahmamir/blob/master/view_businesses.PNG" /> 
-<br />
-<br />
-<br />
-
-- Business Owners View Business Statistics: <br />
-<img align="left" alt="V4" width="300px" height="200px" src="https://github.com/rahmamir/rahmamir/blob/master/view_statistics.PNG" /> 
-<br />
-<br />
-<br />
 
 [linkedin]: https://www.linkedin.com/in/mirza-rahman-b32511134/
