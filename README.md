@@ -36,7 +36,9 @@
 <table>
     <tr> 
         <th rowspan="2"> Video Demonstration: </th> 
-        <th> Video FIle </th>
+    </tr>
+    <tr>
+        <th>Video File</th>
     </tr>
     <tr> 
          <th> Business Owners Customize Store Template: </th> 
