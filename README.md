@@ -35,6 +35,18 @@
 
 Video Demonstration: <br />
 
+<table>
+    <tr> <th> Business Owners Customize Store Template: </th> </tr>
+    <tr> <th> <img align="left" alt="V1" width="300px" height="200px" src="https://github.com/rahmamir/rahmamir/blob/master/customize_template.PNG" />  </th> </tr>
+    <tr> <th> Business Owners Edit Product Data: </th> </tr>
+    <tr> <th> <img align="left" alt="V2" width="300px" height="200px" src="https://github.com/rahmamir/rahmamir/blob/master/edit_products.PNG" />  </th> </tr>
+    <tr> <th> Regular Customers view store on Mobile Hub: </th> </tr>
+    <tr> <th> <img align="left" alt="V3" width="150px" height="200px" src="https://github.com/rahmamir/rahmamir/blob/master/view_businesses.PNG" />  </th> </tr>
+    <tr> <th> Business Owners View Business Statistics: </th> </tr>
+    <tr> <th> <img align="left" alt="V4" width="300px" height="200px" src="https://github.com/rahmamir/rahmamir/blob/master/view_statistics.PNG" />  </th> </tr>
+
+</table>
+
 - Business Owners Customize Store Template: <br />
 <img align="left" alt="V1" width="300px" height="200px" src="https://github.com/rahmamir/rahmamir/blob/master/customize_template.PNG" /> 
 <br />
