@@ -53,7 +53,7 @@
         <th> Business Owners View Business Statistics: </th>
     </tr>
     <tr>
-        <th> <img align="left" alt="V3" width="150px" height="200px" src="https://github.com/rahmamir/rahmamir/blob/master/view_businesses.PNG" />  </th>
+        <th> <img align="center" alt="V3" width="150px" height="250px" src="https://github.com/rahmamir/rahmamir/blob/master/view_businesses.PNG" />  </th>
         <th> <img align="left" alt="V4" width="300px" height="200px" src="https://github.com/rahmamir/rahmamir/blob/master/view_statistics.PNG" />  </th> 
     </tr>
 
