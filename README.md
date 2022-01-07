@@ -30,20 +30,22 @@
 
 
 ### Highlighted Project : Business Paragon
-<b>Problem to Solve:</b> Helping small businesses draw in more customers through an online shop, while ensuring it is cheap and accessible to non-tecngical people. 
-<b>Solution:</b> A custom online store designer, which then saves the template into an online mobile Hub, to be viewable by customers. 
+<b>Problem to Solve:</b> Helping small businesses draw in more customers through an online shop, while ensuring it is cheap and accessible to non-tecngical people. <br />
+<b>Solution:</b> A custom online store designer, which then saves the template into an online mobile Hub, to be viewable by customers. <br />
 
-- Business Owners Customize Store Template: 
-[<img align="left" alt="V1" width="300px" src="https://github.com/rahmamir/rahmamir/blob/master/customize_template.PNG" />]
-- Business Owners Edit Product Data:
-[<img align="left" alt="V2" width="300px" src="https://github.com/rahmamir/rahmamir/blob/master/edit_products.PNG" />]
-- Regular Customers view store on Mobile Hub:
-[<img align="left" alt="V3" width="200px" src="https://github.com/rahmamir/rahmamir/blob/master/view_businesses.PNG" />]
-- Business Owners View Business Statistics
-[<img align="left" alt="V4" width="300px" src="https://github.com/rahmamir/rahmamir/blob/master/view_statistics.PNG" />]
+Video Demonstration: <br />
 
-Video Demonstration:
+- Business Owners Customize Store Template: <br />
+[<img align="left" alt="V1" src="https://github.com/rahmamir/rahmamir/blob/master/customize_template.PNG" />]
 
+- Business Owners Edit Product Data: <br />
+[<img align="left" alt="V2" src="https://github.com/rahmamir/rahmamir/blob/master/edit_products.PNG" />]
+
+- Regular Customers view store on Mobile Hub: <br />
+[<img align="left" alt="V3" src="https://github.com/rahmamir/rahmamir/blob/master/view_businesses.PNG" />]
+
+- Business Owners View Business Statistics: <br />
+[<img align="left" alt="V4" src="https://github.com/rahmamir/rahmamir/blob/master/view_statistics.PNG" />]
 
 <br />
 <br />
