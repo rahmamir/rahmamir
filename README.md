@@ -29,23 +29,23 @@
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 
-### Highlighted Project : Business Paragon
+### Highlighted Project : Business Paragon <br />
 <b>Problem to Solve:</b> Helping small businesses draw in more customers through an online shop, while ensuring it is cheap and accessible to non-tecngical people. <br />
 <b>Solution:</b> A custom online store designer, which then saves the template into an online mobile Hub, to be viewable by customers. <br />
 
 Video Demonstration: <br />
 
 - Business Owners Customize Store Template: <br />
-<img align="left" alt="V1" width="500px" src="https://github.com/rahmamir/rahmamir/blob/master/customize_template.PNG" />
+<img align="left" alt="V1" width="500px" src="https://github.com/rahmamir/rahmamir/blob/master/customize_template.PNG" /> <br />
 
 - Business Owners Edit Product Data: <br />
-<img align="left" alt="V2" width="500px" src="https://github.com/rahmamir/rahmamir/blob/master/edit_products.PNG" />
+<img align="left" alt="V2" width="500px" src="https://github.com/rahmamir/rahmamir/blob/master/edit_products.PNG" /> <br />
 
 - Regular Customers view store on Mobile Hub: <br />
-<img align="left" alt="V3" width="300px" src="https://github.com/rahmamir/rahmamir/blob/master/view_businesses.PNG" />
+<img align="left" alt="V3" width="300px" src="https://github.com/rahmamir/rahmamir/blob/master/view_businesses.PNG" /> <br />
 
 - Business Owners View Business Statistics: <br />
-<img align="left" alt="V4" width="500px" src="https://github.com/rahmamir/rahmamir/blob/master/view_statistics.PNG" />
+<img align="left" alt="V4" width="500px" src="https://github.com/rahmamir/rahmamir/blob/master/view_statistics.PNG" /> <br />
 
 <br />
 <br />
