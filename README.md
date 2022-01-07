@@ -38,7 +38,7 @@
         <th rowspan="2"> Video Demonstration: </th> 
     </tr>
     <tr>
-        <th> Video File </th>
+        <th> https://github.com/rahmamir/rahmamir/blob/master/short_demo_v2%20(1).mp4 </th>
     </tr>
     <tr> 
          <th> Business Owners Customize Store Template: </th> 
