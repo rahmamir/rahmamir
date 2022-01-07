@@ -31,7 +31,8 @@
 
 ### Highlighted Project : Business Paragon <br />
 <b>Problem to Solve:</b> Helping small businesses draw in more customers through an online shop, while ensuring it is cheap and accessible to non-tecngical people. <br />
-<b>Solution:</b> A custom online store designer, which then saves the template into an online mobile Hub, to be viewable by customers. <br />
+<b>Solution:</b> Create a custom online store designer, which then saves the template into an online mobile Hub, to be viewable by customers. <br />
+<b>Group Setup:</b> This project has been worked on by myself and 2 other group members <br />
 
 <table>
     <tr> 
