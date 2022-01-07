@@ -38,23 +38,23 @@
         <th rowspan="2"> Video Demonstration: </th> 
     </tr>
     <tr>
-        <th>Video File</th>
+        <th rowspan="2"> Video File</th>
     </tr>
     <tr> 
          <th> Business Owners Customize Store Template: </th> 
          <th> Business Owners Edit Product Data: </th>
     </tr>
     <tr> 
-        <th> <img align="left" alt="V1" width="300px" height="200px" src="https://github.com/rahmamir/rahmamir/blob/master/customize_template.PNG" />  </th> 
-        <th> <img align="left" alt="V2" width="300px" height="200px" src="https://github.com/rahmamir/rahmamir/blob/master/edit_products.PNG" />  </th> 
+        <th> <img align="left" alt="V1" width="400px" height="200px" src="https://github.com/rahmamir/rahmamir/blob/master/customize_template.PNG" />  </th> 
+        <th> <img align="left" alt="V2" width="400px" height="200px" src="https://github.com/rahmamir/rahmamir/blob/master/edit_products.PNG" />  </th> 
     </tr>
     <tr>
         <th> Regular Customers view store on Mobile Hub: </th>
         <th> Business Owners View Business Statistics: </th>
     </tr>
     <tr>
-        <th> <img align="left" alt="V3" width="150px" height="200px" src="https://github.com/rahmamir/rahmamir/blob/master/view_businesses.PNG" />  </th>
-        <th> <img align="left" alt="V4" width="300px" height="200px" src="https://github.com/rahmamir/rahmamir/blob/master/view_statistics.PNG" />  </th> 
+        <th> <img align="center" alt="V3" width="150px" height="350px" src="https://github.com/rahmamir/rahmamir/blob/master/view_businesses.PNG" />  </th>
+        <th> <img align="left" alt="V4" width="400px" height="200px" src="https://github.com/rahmamir/rahmamir/blob/master/view_statistics.PNG" />  </th> 
     </tr>
 
 </table>
