@@ -45,7 +45,7 @@
          <th> Business Owners Edit Product Data: </th>
     </tr>
     <tr> 
-        <th> <img align="center" alt="V1" width="400px" height="200px" src="https://github.com/rahmamir/rahmamir/blob/master/customize_template.PNG" />  </th> 
+        <th width="500px"> <img align="center" alt="V1" width="350px" height="200px" src="https://github.com/rahmamir/rahmamir/blob/master/customize_template.PNG" />  </th> 
         <th> <img align="center" alt="V2" width="350px" height="200px" src="https://github.com/rahmamir/rahmamir/blob/master/edit_products.PNG" />  </th> 
     </tr>
     <tr>
