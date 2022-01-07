@@ -34,9 +34,13 @@
 <b>Solution:</b> A custom online store designer, which then saves the template into an online mobile Hub, to be viewable by customers. 
 
 - Business Owners Customize Store Template: 
+<img align="left" alt="V1" width="100px" src="https://github.com/rahmamir/rahmamir/blob/master/customize_template.PNG" />
 - Business Owners Edit Product Data:
+<img align="left" alt="V2" width="100px" src="https://github.com/rahmamir/rahmamir/blob/master/edit_products.PNG" />
 - Regular Customers view store on Mobile Hub:
+<img align="left" alt="V3" width="100px" src="https://github.com/rahmamir/rahmamir/blob/master/view_businesses.PNG" />
 - Business Owners View Business Statistics
+<img align="left" alt="V4" width="100px" src="https://github.com/rahmamir/rahmamir/blob/master/view_statistics.PNG" />
 
 <br />
 <br />
