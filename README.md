@@ -33,26 +33,26 @@
 <b>Problem to Solve:</b> Helping small businesses draw in more customers through an online shop, while ensuring it is cheap and accessible to non-tecngical people. <br />
 <b>Solution:</b> A custom online store designer, which then saves the template into an online mobile Hub, to be viewable by customers. <br />
 
-<table>
+<table table-layout="fixed" width="200px">
     <tr> 
         <th rowspan="2"> Video Demonstration: </th> 
     </tr>
     <tr>
         <th> https://github.com/rahmamir/rahmamir/blob/master/short_demo_v2%20(1).mp4 </th>
     </tr>
-    <tr> 
+    <tr width="800px"> 
          <th> Business Owners Customize Store Template: </th> 
          <th> Business Owners Edit Product Data: </th>
     </tr>
-    <tr> 
+    <tr  width="800px"> 
         <th> <img align="center" alt="V1" width="350px" height="200px" src="https://github.com/rahmamir/rahmamir/blob/master/customize_template.PNG" />  </th> 
         <th> <img align="center" alt="V2" width="350px" height="200px" src="https://github.com/rahmamir/rahmamir/blob/master/edit_products.PNG" />  </th> 
     </tr>
-    <tr>
+    <tr  width="800px">
         <th> Regular Customers view store on Mobile Hub: </th>
         <th> Business Owners View Business Statistics: </th>
     </tr>
-    <tr>
+    <tr  width="800px">
         <th> <img align="center" alt="V3" width="150px" height="250px" src="https://github.com/rahmamir/rahmamir/blob/master/view_businesses.PNG" />  </th>
         <th> <img align="center" alt="V4" width="350px" height="200px" src="https://github.com/rahmamir/rahmamir/blob/master/view_statistics.PNG" />  </th> 
     </tr>
